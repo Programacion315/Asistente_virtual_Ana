@@ -78,7 +78,7 @@ def run_ana():
                       
 
 def hola():
-     talk("Bienvenido, soy ana, tu asistente virtual, fui programada por Programacion 3 15, en que te puedo ayudar?")
+     talk("Bienvenido, soy ana, tu asistente virtual en que te puedo ayudar?")
 
 if __name__ == '__main__':
 
